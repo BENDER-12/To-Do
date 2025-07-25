@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "fireapp",
-    "slug": "https://auth.expo.io/@bharath-kanth/fireapp",
+    "slug": "fireapp",
     "scheme": "fireapp",
     "version": "1.0.0",
     "orientation": "portrait",
