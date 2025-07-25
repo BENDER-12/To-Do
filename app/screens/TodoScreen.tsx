@@ -37,7 +37,7 @@ export default function TodoScreen() {
 
   // Google Auth Session
   const [request, response, promptAsync] = Google.useAuthRequest({
-    clientId: 'YOUR_WEB_CLIENT_ID.apps.googleusercontent.com', // Web client ID for Expo Go
+    clientId: '878090612223-07mci8f9tg8qsl2b15va8mi39igu1i2t.apps.googleusercontent.com', // Web client ID for Expo Go
   });
 
   useEffect(() => {
